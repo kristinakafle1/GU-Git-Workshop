@@ -1,0 +1,14 @@
+.hello{
+    color:brown;
+    padding:10px 10px 12px 12px;
+    font-family: "poppins";
+    sans-serif;
+    font-size:32px;
+}
+.name{
+    color:blue;
+    padding:10px 10px;
+    display:flex;
+    justify-content: center;
+    background-color: blueviolet;
+}
